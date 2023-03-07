@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+#he{
+    background-color: pink;
+    height: 100px;
+    margin-top: -21px;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+h1{
+    padding: 30px;
+    font-style: italic;
+}
+#rodape{
+    background-color: pink;
+    height: 80px;
+    margin-top: 386px;
+    margin-left: -20px;
+    margin-right: -8px;
+    margin-bottom: -40px;
+}
+#doces{
+    text-align: left;
+    margin-left: 550px;
+
+}

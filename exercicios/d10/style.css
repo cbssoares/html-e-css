@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'idroid' ;
+    src: url('fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+header{
+    background-color: green;
+    padding: 11px;
+    margin:-10px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom, #3DDA84, #2DA060, #227646, #1A5C38) ;
+    
+}
+
+#stitle{
+    margin: 10px 0px 20px 0px; 
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+#sp{
+    text-align: center;
+    margin: 16px 1px 45px 1px;
+}
+main{
+    background-color: white;
+    margin: 10px 200px 5px 200px;
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.74);
+
+}
+.aga2{
+    background-image: linear-gradient(to right, #BCE4CE, #D7F1E2, #E3F6EB, #F0FAF4) ;
+    padding-left: 10px;
+    font-family: 'idroid', sans-serif;
+    color: #266542;
+}
+body{
+    background-color:#84E1AD;
+}
+p{
+    text-align: justify;
+    margin: auto;
+}
+nav{
+    text-align: left;
+    margin: 10px 10px -1px 0px;
+}
+nav>a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+aside{
+    margin: 10px;
+    background-color: #C5EBD6;
+    padding:0px 10px 1px 10px;
+    text-align: justify;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.74);
+
+}
+div{
+    color: white;
+    background-color: #2FA866;
+    padding: 10px;
+    margin: -10px;
+    margin-bottom: 5px;
+    border-radius: 10px 10px 0px 0px;
+    font-size: 18px;
+   
+}
+footer{
+    background-color: #1A5C38;
+    color: rgb(178, 212, 178) ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 10px -10px -10px -10px;
+}
+h1{
+    font-family: 'idroid', sans-serif;
+    color: #266542;
+}
+a:hover{
+    background-color: rgb(89, 150, 89);
+    border-radius: 5px;
+
+}

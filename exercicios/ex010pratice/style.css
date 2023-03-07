@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+section{
+    background-color: pink;
+    height: 100px;
+    margin-top: -21px;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+h1{
+    padding: 30px;
+    font-style: italic;
+}
+
+#yt{
+    color:black;
+}
+img{
+    margin-top: -15px;
+    height: 50px;
+}
+#foto{
+    padding: -80px;
+}
+#rodape{
+    background-color: pink;
+    height: 80px;
+    margin-top: 319px;
+    margin-left: -20px;
+    margin-right: -8px;
+    margin-bottom: -40px;
+}

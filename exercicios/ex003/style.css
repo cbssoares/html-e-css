@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: rgba(123, 231, 74, 0.452);
+    height: 100px;
+    margin-top: -21px;
+    margin-left: -20px;
+    margin-right: -8px;
+    margin-bottom: -9px;
+}
+h1{
+    padding: 25px;
+}
+hr{
+    width: 1338px;
+}
