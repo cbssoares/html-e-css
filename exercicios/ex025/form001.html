@@ -13,7 +13,12 @@
 </head>
 <body>
     <h1>Meu primeiro Formulario</h1>
-    <form autocomplete="off" action="cadastro.php">
+    <form autocomplete="off" method="post"  action="cadastro.php">
+        <!--
+            metodos do form 
+            get = os dados ficam visiveis na url (só aguenta dados de 3mil bytes [aproximadamente 3mil letras])
+            post= os dados não ficam visiveis na url, mas ainda sim sao detectaveis
+        -->
         <p><label for="inome">Nome: </label>
             <input type="text" name="nome" id="inome"></p>
         <p><label for="isobrenome">Sobrenome:</label> 
